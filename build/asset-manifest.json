@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbdf8cb4.chunk.css",
+    "main.js": "/static/js/main.7ba09a6d.chunk.js",
+    "main.js.map": "/static/js/main.7ba09a6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf3ed384.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf3ed384.js.map",
+    "static/js/2.8fa4e446.chunk.js": "/static/js/2.8fa4e446.chunk.js",
+    "static/js/2.8fa4e446.chunk.js.map": "/static/js/2.8fa4e446.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.597ab4fb7c8740b7cf0d84aa4f765cde.js": "/precache-manifest.597ab4fb7c8740b7cf0d84aa4f765cde.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bbdf8cb4.chunk.css.map": "/static/css/main.bbdf8cb4.chunk.css.map",
+    "static/js/2.8fa4e446.chunk.js.LICENSE.txt": "/static/js/2.8fa4e446.chunk.js.LICENSE.txt",
+    "static/media/card1.jpg": "/static/media/card1.7311a4d7.jpg",
+    "static/media/card2.jpg": "/static/media/card2.c987b2cd.jpg",
+    "static/media/card3.jpg": "/static/media/card3.80d2ba19.jpg",
+    "static/media/img33.gif": "/static/media/img33.6bf45683.gif",
+    "static/media/logo_FCE.jpg": "/static/media/logo_FCE.78cdece6.jpg",
+    "static/media/logo_FCE.png": "/static/media/logo_FCE.9f574d56.png",
+    "static/media/index.css": "/static/media/montserrat-v14-latin-regular.f3fef7e5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf3ed384.js",
+    "static/js/2.8fa4e446.chunk.js",
+    "static/css/main.bbdf8cb4.chunk.css",
+    "static/js/main.7ba09a6d.chunk.js"
+  ]
+}
